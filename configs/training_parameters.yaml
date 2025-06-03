@@ -1,0 +1,8 @@
+input_dim : 1
+hidden_dim : 128
+num_layers : 5
+output_dim : 1
+seq_len : 30
+batch_size : 10
+epochs : 500
+model_save_path : "./cnn_lstm_time_series_model.pth"

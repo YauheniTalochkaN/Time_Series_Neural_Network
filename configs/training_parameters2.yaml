@@ -1,0 +1,11 @@
+input_dim : 1
+d_model : 128
+num_heads : 8
+num_layers : 5
+dim_feedforward : 128
+output_dim : 1
+seq_len : 50
+pred_len: 10
+batch_size : 10
+epochs : 300
+model_save_path: "transformer_time_series_model.pth"
